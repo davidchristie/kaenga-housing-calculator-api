@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "nodemailer": "^3.1.8",
+    "standard": "^9.0.2"
+  },
+  "devDependencies": {
+    "standard": "^9.0.2"
+  },
+  "name": "kaenga-housing-calculator-api",
+  "private": true,
+  "scripts": {
+    "start": "node index"
+  },
+  "version": "0.1.0"
+}
